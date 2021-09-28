@@ -83,3 +83,7 @@ export function getLevel(userId) {
 **Обратите внимание**: тесты вам надо писать для функции `getLevel`
 
 ---
+
+### AJS-TEST
+
+[![Build status](https://ci.appveyor.com/api/projects/status/jmuvcamh3kk4mpfd/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-4-3-m57en/branch/main)
